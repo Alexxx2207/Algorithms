@@ -36,8 +36,14 @@ static void QuickSort(int[] arr, int leftIndex, int rightIndex)
     }
 }
 
+
+//Example Array
 int[] nums = { 2, 3, 2, 1, 3, 4, 634, 65434, 324, 32423, 4, 32, 4324, 876, 1, 3, 313, 12, 3, 12, 31 };
 
+//Insert:
+//1.The array you want to sort
+//2.From which index you want to sort (from left to right perspective) *inclusive*
+//3.To which index you want to sort (from left to right perspective) *inclusive*
 QuickSort(nums, 0, nums.Length - 1);
 
 Console.WriteLine(string.Join(' ', nums));
