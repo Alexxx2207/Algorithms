@@ -49,7 +49,6 @@ bool FindAPattern(int[][] board, int col)
         return true;
     }
 
-    bool foundSolution = false;
 
     for (int row = 0; row < board.Length; row++)
     {
@@ -57,7 +56,7 @@ bool FindAPattern(int[][] board, int col)
         {
             board[row][col] = 1;
 
-            foundSolution = foundSolution || FindAPattern(board, col + 1);
+            FindAPattern(board, col + 1);
 
             board[row][col] = 0;
         }

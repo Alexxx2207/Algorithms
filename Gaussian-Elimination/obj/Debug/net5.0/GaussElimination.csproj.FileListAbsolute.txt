@@ -1,0 +1,16 @@
+D:\Programming\GitHub\Algorithms\Gaussian-Elimination\bin\Debug\net5.0\GaussElimination.exe
+D:\Programming\GitHub\Algorithms\Gaussian-Elimination\bin\Debug\net5.0\GaussElimination.deps.json
+D:\Programming\GitHub\Algorithms\Gaussian-Elimination\bin\Debug\net5.0\GaussElimination.runtimeconfig.json
+D:\Programming\GitHub\Algorithms\Gaussian-Elimination\bin\Debug\net5.0\GaussElimination.runtimeconfig.dev.json
+D:\Programming\GitHub\Algorithms\Gaussian-Elimination\bin\Debug\net5.0\GaussElimination.dll
+D:\Programming\GitHub\Algorithms\Gaussian-Elimination\bin\Debug\net5.0\GaussElimination.pdb
+D:\Programming\GitHub\Algorithms\Gaussian-Elimination\obj\Debug\net5.0\GaussElimination.csproj.AssemblyReference.cache
+D:\Programming\GitHub\Algorithms\Gaussian-Elimination\obj\Debug\net5.0\GaussElimination.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\GitHub\Algorithms\Gaussian-Elimination\obj\Debug\net5.0\GaussElimination.AssemblyInfoInputs.cache
+D:\Programming\GitHub\Algorithms\Gaussian-Elimination\obj\Debug\net5.0\GaussElimination.AssemblyInfo.cs
+D:\Programming\GitHub\Algorithms\Gaussian-Elimination\obj\Debug\net5.0\GaussElimination.csproj.CoreCompileInputs.cache
+D:\Programming\GitHub\Algorithms\Gaussian-Elimination\obj\Debug\net5.0\GaussElimination.dll
+D:\Programming\GitHub\Algorithms\Gaussian-Elimination\obj\Debug\net5.0\refint\GaussElimination.dll
+D:\Programming\GitHub\Algorithms\Gaussian-Elimination\obj\Debug\net5.0\GaussElimination.pdb
+D:\Programming\GitHub\Algorithms\Gaussian-Elimination\obj\Debug\net5.0\GaussElimination.genruntimeconfig.cache
+D:\Programming\GitHub\Algorithms\Gaussian-Elimination\obj\Debug\net5.0\ref\GaussElimination.dll

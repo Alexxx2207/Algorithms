@@ -1,0 +1,15 @@
+D:\Programming\GitHub\Algorithms\EightQueens\EightQueens\bin\Debug\net6.0\EightQueens.exe
+D:\Programming\GitHub\Algorithms\EightQueens\EightQueens\bin\Debug\net6.0\EightQueens.deps.json
+D:\Programming\GitHub\Algorithms\EightQueens\EightQueens\bin\Debug\net6.0\EightQueens.runtimeconfig.json
+D:\Programming\GitHub\Algorithms\EightQueens\EightQueens\bin\Debug\net6.0\EightQueens.dll
+D:\Programming\GitHub\Algorithms\EightQueens\EightQueens\bin\Debug\net6.0\EightQueens.pdb
+D:\Programming\GitHub\Algorithms\EightQueens\EightQueens\obj\Debug\net6.0\EightQueens.csproj.AssemblyReference.cache
+D:\Programming\GitHub\Algorithms\EightQueens\EightQueens\obj\Debug\net6.0\EightQueens.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\GitHub\Algorithms\EightQueens\EightQueens\obj\Debug\net6.0\EightQueens.AssemblyInfoInputs.cache
+D:\Programming\GitHub\Algorithms\EightQueens\EightQueens\obj\Debug\net6.0\EightQueens.AssemblyInfo.cs
+D:\Programming\GitHub\Algorithms\EightQueens\EightQueens\obj\Debug\net6.0\EightQueens.csproj.CoreCompileInputs.cache
+D:\Programming\GitHub\Algorithms\EightQueens\EightQueens\obj\Debug\net6.0\EightQueens.dll
+D:\Programming\GitHub\Algorithms\EightQueens\EightQueens\obj\Debug\net6.0\refint\EightQueens.dll
+D:\Programming\GitHub\Algorithms\EightQueens\EightQueens\obj\Debug\net6.0\EightQueens.pdb
+D:\Programming\GitHub\Algorithms\EightQueens\EightQueens\obj\Debug\net6.0\EightQueens.genruntimeconfig.cache
+D:\Programming\GitHub\Algorithms\EightQueens\EightQueens\obj\Debug\net6.0\ref\EightQueens.dll

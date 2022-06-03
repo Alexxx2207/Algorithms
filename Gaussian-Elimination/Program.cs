@@ -64,7 +64,6 @@ namespace GaussElimination
                 }
             }
 
-
             for (int i = length-1; i >= 0; i--)
             {
                 double sum = 0;
@@ -74,7 +73,6 @@ namespace GaussElimination
                 }
                 result[i] = (rightFromEquals[i] - sum) / matrix[i][i];
             }
-
 
             return result;
         }
